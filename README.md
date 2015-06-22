@@ -10,4 +10,4 @@ Release History
 
 License
 =============
-For more information about the license, Apache License
+For more information about the license, [Apache License](https://github.com/fassetar/Data-Steamer/blob/master/LICENSE)
