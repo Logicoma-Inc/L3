@@ -1,0 +1,136 @@
+/*DOCS: based heavily this http://projects.lukehaas.me/css-loaders for loaders */
+.slice text {
+        font-size: 16pt;
+        font-family: Arial;
+    }
+
+    [side-chart], [bar-chart], [line-chart] {
+        height: 200px;
+        width: 200px;
+    }
+
+    [pie-chart]:empty, [pie-chart2]:empty {
+        font-size: 10px;
+        position: relative;
+        text-indent: -9999em;
+        border-top: 2em solid #F90101;
+        border-right: 2em solid #F2B50F;
+        border-bottom: 2em solid #00933B;
+        border-left: 2em solid #0266C8;
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        -moz-transform: translateZ(0);
+        -o-transform: translateZ(0);
+        transform: translateZ(0);
+        -webkit-animation: load8 1.1s infinite linear;
+        -moz-animation: load8 1.1s infinite linear;
+        -o-animation: load8 1.1s infinite linear;
+        animation: load8 1.1s infinite linear;
+    }
+
+        [pie-chart]:empty,
+        [pie-chart]:empty:after,
+        [pie-chart2]:empty,
+        [pie-chart2]:empty:after {
+            border-radius: 50%;
+            width: 200px;
+            height: 200px;
+        }
+
+@-webkit-keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+    [side-chart] text {
+        fill: black;
+        font: 10px sans-serif;
+        text-anchor: end;
+    }
+
+    [bar-chart] text {
+        fill: black;
+        font: 8px sans-serif;
+        text-anchor: middle;
+    }
+
+    [line-chart] path {
+        stroke: #428bca;
+        stroke-width: 2;
+        fill: none;
+    }
+
+    [line-chart] line {
+        stroke: black;
+    }
+
+    [line-chart] text {
+        font-family: Arial;
+        font-size: 9pt;
+    }
+
+    .axis {
+        font: 10px sans-serif;
+    }
+
+    line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    [pie-chart], [pie-chart2] {
+        height: 200px;
+        position: relative;
+        width: 200px;
+    }
+
+    .chart-tooltip {
+        background: #eee;
+        box-shadow: 0 0 5px #999999;
+        color: #333;
+        display: none;
+        font-size: 12px;
+        left: 40px;
+        padding: 10px;
+        position: relative;
+        text-align: center;
+        top: -145px;
+        width: 80px;
+        z-index: 10;
+    }
+
+    [pie-chart], [pie-chart2] .legend {
+        font-size: 12px;
+    }
+
+        [pie-chart] rect, [pie-chart2] rect {
+            stroke-width: 2;
+        }
+
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    g .legend-modal {
+        display: none;
+    }    

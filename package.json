@@ -1,0 +1,20 @@
+{
+  "name": "Data-Steamer",
+  "description": "A small d3js wrapper, allowing a simpler approach to data graphs.",
+  "version": "2.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fassetar/data-steamer"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-qunit": ">=0.2.1",
+    "grunt-contrib-uglify": "~0.6.0",
+    "grunt-contrib-watch": ">=0.3.1",
+    "grunt-json-server": "^0.1.1",
+    "grunt-open": "^0.2.3",
+    "matchdep": "~0.3.0"
+  }
+}
