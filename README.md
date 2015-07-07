@@ -6,10 +6,10 @@ Coming soon!
 
 References
 =============
-http://strongriley.github.io/d3/api/
-http://www.janwillemtulp.com/category/d3/
-http://strongriley.github.io/d3/tutorial/bar-1.html
-http://bost.ocks.org/mike/bar/3/
+http://strongriley.github.io/d3/api/<br/>
+http://www.janwillemtulp.com/category/d3/<br/>
+http://strongriley.github.io/d3/tutorial/bar-1.html<br/>
+http://bost.ocks.org/mike/bar/3/<br/>
 
 Release History
 =============
