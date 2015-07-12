@@ -1,8 +1,26 @@
 # Data-Steamer
 
+
 Getting Started
 =============
-Coming soon!
+
+
+
+# What's included
+
+```
+dist/
+├── css/
+│   ├── d3.data-steamer.css
+│   ├── d3.data-steamer.css.map
+│   ├── d3.data-steamer.min.css
+│   └── d3.data-steamer.min.css.map   
+├── js/
+├── d3.data-steamer.js
+└── d3.data-steamer.min.js
+```
+
+
 
 References
 =============
