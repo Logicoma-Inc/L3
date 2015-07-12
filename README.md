@@ -1,6 +1,7 @@
 # Data-Steamer
 [![GitHub release](https://img.shields.io/badge/Alpha-0.0.3-red.svg)]()
-[![Build Status](https://travis-ci.org/fassetar/data-streamer.svg?branch=master)](https://travis-ci.org/fassetar/data-streamer) <a href="https://www.gittip.com/fassetar/"><img src="http://img.shields.io/gittip/fassetar.svg" alt="Gittip"></a><br/>
+[![Build Status](https://travis-ci.org/fassetar/Data-Steamer.svg)](https://travis-ci.org/fassetar/Data-Steamer)
+<a href="https://www.gittip.com/fassetar/"><img src="http://img.shields.io/gittip/fassetar.svg" alt="Gittip"></a><br/>
 
 Horribly named d3js wrapper (open for suggestions) was originally designed in a intranet around non-frontend developers. To meet in the middle with things, this wrapper provides HTML/razor markup instead of using straight d3/javascript. You can still use d3/javascript but is is not necessary for other developers this simplifies a lot of things plus it is very customizable.
 
