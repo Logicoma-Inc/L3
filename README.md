@@ -1,5 +1,5 @@
 # Data-Steamer
-
+Horribly named d3js wrapper (open for suggestions) was originally designed in a intranet around non-frontend developers. To meet in the middle with things, this wrapper provides HTML/razor markup instead of using straight d3/javascript. You can still use d3/javascript but is is not necessary for other developers this simplifies a lot of things plus it is very customizable.
 
 Getting Started
 =============
