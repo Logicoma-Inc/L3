@@ -1,4 +1,4 @@
-# Data-Steamer
+# Data-Steamer - D3 Wrapper
 [![GitHub release](https://img.shields.io/badge/Alpha-0.0.3-red.svg)]()
 [![Build Status](https://travis-ci.org/fassetar/Data-Steamer.svg)](https://travis-ci.org/fassetar/Data-Steamer)
 <a href="https://www.gittip.com/fassetar/"><img src="http://img.shields.io/gittip/fassetar.svg" alt="Gittip"></a><br/>
