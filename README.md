@@ -1,8 +1,8 @@
-# data-steamer
+# c3plus
 [![GitHub release](https://img.shields.io/badge/Alpha-0.0.3-red.svg)]()
 [![Build Status](https://travis-ci.org/fassetar/data-steamer.svg?branch=master)](https://travis-ci.org/fassetar/data-steamer)
 <br/>
-Horribly named d3js wrapper (open for suggestions) was originally designed in a Intranet around non-frontend developers. So to help middle tiers developers, this wrapper provides HTML/razor markup instead of using straight d3/javascript. You can still use d3/javascript but is is not necessary for other developers this simplifies a lot of things plus it is very customizable.
+c3js wrapper was originally designed in a Intranet around non-frontend developers. So to help middle tiers developers, this wrapper provides HTML/razor markup instead of using straight d3/javascript. You can still use d3/javascript but is is not necessary for other developers this simplifies a lot of things plus it is very customizable.
 
 Getting Started
 =============
@@ -12,14 +12,14 @@ Getting Started
 ```
 dist/
 ├── css/
-│   ├── d3.data-steamer.css
-│   ├── d3.data-steamer.css.map
-│   ├── d3.data-steamer.min.css
-│   └── d3.data-steamer.min.css.map   
+│   ├── c3.c3plus.css
+│   ├── c3.c3plus.css.map
+│   ├── c3.c3plus.min.css
+│   └── c3.c3plus.min.css.map   
 ├── js/
-├── d3.data-steamer.js
-├── d3.data-steamer.min.js
-└── d3.data-steamer.min.js.map
+├── c3.c3plus.js
+├── c3.c3plus.min.js
+└── c3.c3plus.min.js.map
 ```
 
 References & Influences
