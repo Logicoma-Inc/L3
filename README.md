@@ -2,7 +2,7 @@
 [![GitHub release](https://img.shields.io/badge/Alpha-0.0.3-red.svg)]()
 [![Build Status](https://travis-ci.org/fassetar/data-steamer.svg?branch=master)](https://travis-ci.org/fassetar/data-steamer)
 <br/>
-c3js wrapper was originally designed in a Intranet around non-frontend developers. So to help middle tiers developers, this wrapper provides HTML/razor markup instead of using straight d3/javascript. You can still use d3/javascript but is is not necessary for other developers this simplifies a lot of things plus it is very customizable.
+This wrapper was originally designed in a Intranet around non-frontend developers. So to help middle tiers developers, this wrapper provides HTML/razor markup instead of using straight d3/javascript. You can still use d3/javascript but is is not necessary for other developers this simplifies a lot of things plus it is very customizable.
 
 Getting Started
 =============
