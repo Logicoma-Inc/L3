@@ -38,3 +38,20 @@ Release History
 License
 =============
 For more information about the license, [Apache License](https://github.com/fassetar/Data-Steamer/blob/master/LICENSE)
+
+
+NOTES
+=============
+http://stackoverflow.com/questions/13983864/how-to-make-a-d3-plugin
+
+http://nvd3.org/
+http://dimplejs.org/
+
+
+Wrappers 
+http://c3js.org/examples.html
+http://nvd3.org/
+http://dimplejs.org/
+
+Plugins
+https://github.com/d3/d3-plugins
